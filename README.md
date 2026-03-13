@@ -117,6 +117,42 @@ python mercari_eda.py
 • Interactive dashboard with Streamlit  
 • More advanced statistical analysis
 
+
+# Mercari Price Analysis
+
+Exploratory Data Analysis of Mercari marketplace listings using Python.
+
+## Tools
+Python  
+Pandas  
+NumPy  
+Matplotlib  
+Seaborn  
+
+## Dataset
+Mercari Price Suggestion Challenge dataset.
+
+## Dashboard
+
+![Dashboard](mercari_dashboard.png)
+
+## Deep Analysis
+
+![Deep Dive](mercari_deepdive.png)
+
+## Insights
+
+• Brand increases median price by ~43%  
+• Buyer-paid shipping items tend to have higher prices  
+• Most listings fall in the $10–$25 range  
+
+## How to Run
+
+```
+pip install pandas numpy matplotlib seaborn
+python mercari_eda.py
+```
+
 ---
 
 ## Author
