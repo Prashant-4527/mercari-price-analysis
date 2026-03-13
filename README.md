@@ -1,10 +1,19 @@
 # Mercari E-Commerce Price Analysis
-
+![Dashboard](mercari_dashboard.png)
 Exploratory Data Analysis of product listings from the Mercari marketplace.
 
 This project analyzes pricing patterns, brand impact, category distribution, and shipping behavior using Python data analysis tools.
 
 ---
+
+## Project Structure
+
+mercari-price-analysis
+│
+├── mercari_eda.py
+├── mercari_dashboard.png
+├── mercari_deepdive.png
+└── README.md
 
 ## Project Overview
 
@@ -18,6 +27,12 @@ The goal of this project is to explore:
 • Shipping behavior and its impact on price  
 
 ---
+
+## Future Work
+
+• Build a price prediction machine learning model  
+• Feature engineering from product descriptions  
+• Interactive dashboard using Streamlit  
 
 ## Dataset
 
@@ -33,6 +48,7 @@ Key columns:
 - shipping
 
 ---
+Dataset: Mercari Price Suggestion Challenge (Kaggle)
 
 ## Tech Stack
 
